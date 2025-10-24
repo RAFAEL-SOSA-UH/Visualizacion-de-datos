@@ -6,4 +6,4 @@ Bradle Heziel Ake Canul
 
 ## Descripción:
 
-no c
+Analisis del dataset "annual-co2-emissions-per-country.csv"
